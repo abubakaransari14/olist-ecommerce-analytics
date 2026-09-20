@@ -1,0 +1,3 @@
+Test,Business Question,Statistic,P_Value,Alpha
+Mann-Whitney U,Do review scores differ between late and on-time deliveries?,538376866.5,0.0,0.05
+Spearman Rank Correlation,Is delivery duration associated with review score?,-0.23441220411395522,0.0,0.05

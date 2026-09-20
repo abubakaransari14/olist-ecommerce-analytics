@@ -1,0 +1,14 @@
+pip freeze > requirements.txt
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+openpyxl
+sqlalchemy
+pyodbc
+jupyter
+ipykernel
+streamlit
+joblib

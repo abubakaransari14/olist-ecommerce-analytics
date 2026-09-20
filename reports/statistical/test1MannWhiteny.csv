@@ -1,0 +1,2 @@
+test,question,on_time_count,late_count,on_time_median,late_median,u_statistic,p_value,rank_biserial_effect_size
+Mann-Whitney U,Do review scores differ between late and on-time deliveries?,91523,7701,5.0,2.0,538376866.5,0.0,0.5277032953767455
